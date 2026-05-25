@@ -37,16 +37,16 @@ This repo is my public knowledge base — where I document what I learn, how I t
 
 | Product | Company | Architecture Type | Status |
 |---------|---------|-------------------|--------|
-| Klarna AI Assistant | Klarna | Agentic LLM + Fintech Integration | 🔄 In Progress |
-| ChatGPT | OpenAI | LLM + RLHF + Fine-tuning | 📋 Planned |
-| Perplexity | Perplexity AI | RAG + Real-time Retrieval | 📋 Planned |
-| Amazon Rufus | Amazon | Conversational AI + Catalog RAG | 📋 Planned |
-| Google CCAI | Google | NLU + ASR + Dialog Management | 📋 Planned |
-| Duolingo Max | Duolingo | GPT-4 + Personalization Loops | 📋 Planned |
-| Intercom Fin | Intercom | LLM-powered Support Agent | 📋 Planned |
-| GitHub Copilot | GitHub / OpenAI | LLM + Code RAG + Agentic | 📋 Planned |
-| Salesforce Agentforce | Salesforce | Enterprise AI Agent Platform | 📋 Planned |
-| Notion AI | Notion | Workspace RAG + LLM | 📋 Planned |
+| [Klarna AI Assistant](./01-ai-product-teardowns/01-klarna-ai-assistant/) | Klarna | Agentic LLM + Fintech Integration | ✅ Complete |
+| [ChatGPT](./01-ai-product-teardowns/02-chatgpt/) | OpenAI | LLM + RLHF + Fine-tuning | ✅ Complete |
+| [Perplexity](./01-ai-product-teardowns/03-perplexity/) | Perplexity AI | RAG + Real-time Retrieval | ✅ Complete |
+| [Amazon Rufus](./01-ai-product-teardowns/04-amazon-rufus/) | Amazon | Conversational AI + Catalog RAG | ✅ Complete |
+| [Google CCAI](./01-ai-product-teardowns/05-google-ccai/) | Google | NLU + ASR + Dialog Management | ✅ Complete |
+| [Duolingo Max](./01-ai-product-teardowns/06-duolingo-max/) | Duolingo | GPT-4 + Personalization Loops | ✅ Complete |
+| [Intercom Fin](./01-ai-product-teardowns/07-intercom-fin/) | Intercom | Agentic LLM + Outcome-based Pricing | ✅ Complete |
+| [GitHub Copilot](./01-ai-product-teardowns/08-github-copilot/) | GitHub / Microsoft | Multi-model LLM + Code RAG + Agentic | ✅ Complete |
+| [Salesforce Agentforce](./01-ai-product-teardowns/09-salesforce-agentforce/) | Salesforce | Enterprise Agentic AI + CRM Integration | ✅ Complete |
+| [Notion AI](./01-ai-product-teardowns/10-notion-ai/) | Notion | Workspace RAG + Multi-model LLM | ✅ Complete |
 
 ---
 
