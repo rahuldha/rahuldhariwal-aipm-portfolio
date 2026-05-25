@@ -1,8 +1,25 @@
-# 05 — Prompt Engineering Library
+# Prompt Engineering Library
 
-PM-specific prompt templates for PRDs, user stories, competitive analysis, eval frameworks, and more.
+*PM-specific prompt templates for real AI PM workflows. Not generic prompts — these are calibrated for the specific output quality a senior PM needs.*
 
-Built from repeated use in production workflows — not generic prompts, but ones calibrated for AI PM output.
+---
+
+## Templates
+
+| File | Prompts |
+|------|---------|
+| [PM Prompt Templates](./pm-prompt-templates.md) | Competitive analysis, user interview synthesis, PRD review, AI failure mode analysis, eval rubric generator, build vs. buy, executive summary, incident communication, metrics dashboard design |
+
+---
+
+## How to Use
+
+Each prompt template has three parts:
+1. **Role setting**: establishes the analytical frame
+2. **Task specification**: defines exactly what output to produce
+3. **Output format**: specifies structure so the response is immediately usable
+
+Fill in the `[BRACKETED FIELDS]` with your specific context. The more specific you are, the more useful the output.
 
 ---
 

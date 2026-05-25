@@ -1,8 +1,17 @@
-# 06 — AI Concepts Glossary
+# AI Concepts Glossary
 
-Plain-English AI/ML reference explained from a PM perspective — trade-offs, not equations.
+*Plain-English AI/ML definitions from a PM perspective. Trade-offs and decision implications, not equations.*
 
-Covers: RAG, embeddings, fine-tuning, agentic architecture, NLU, ASR, RLHF, evaluation metrics, and more. Written for PMs who need to make decisions with engineers, not pass ML exams.
+---
+
+## [Full Glossary →](./glossary.md)
+
+**Concepts covered**: Agentic AI, ASR, Confidence Score, Context Window, Embedding, Evaluation, Fine-tuning, Faithfulness, Hallucination, LLM, NLU, Prompt Engineering, RAG, RLHF, Token, Transfer Learning
+
+Each entry includes:
+- What it is (plain English)
+- The PM-relevant trade-off
+- The product decision it informs
 
 ---
 
